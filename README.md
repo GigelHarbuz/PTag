@@ -25,5 +25,6 @@ O interfata nativa in Python pentru Proxmark3.
 
 ## Instalare
 Ai deja Proxmarkul instalat (adica clientul PM3 de pe proxmarkbuilds)?
+\n
   *Da* - [Tutorial scurt](/tutoriale/scurt.md)   *Nu* - [Tutorial cu instalare de la 0](/tutoriale/lung.md)
 
