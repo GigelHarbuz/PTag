@@ -21,4 +21,9 @@ O interfata nativa in Python pentru Proxmark3.
 - tagurile, de obicei, sunt mai mici si mai usoare ca cele de la Electra
 - mai multe culori la taguri
 - mai usor de folosit
-- 
+- poti face cartele tip "sticker" ca sa intrii cu telefonul in bloc
+
+## Instalare
+Ai deja Proxmarkul instalat (adica clientul PM3 de pe proxmarkbuilds)?
+  *Da* - [Tutorial scurt](/tutoriale/scurt.md)   *Nu* - [Tutorial cu instalare de la 0](/tutoriale/lung.md)
+
