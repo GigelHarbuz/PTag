@@ -225,6 +225,10 @@ def parse_lf_search(output: str):
         chip_type = "T5577"
     elif re.search(r'Chipset\s+detection\s*:\s*EM4x05', output, re.IGNORECASE):
         chip_type = "EM4305"
+    elif re.search(r'Chipset...\s*T55xx', output, re.IGNORECASE):
+        chip_type = "T5577"
+    elif re.search(r'Chipset...\s*EM4x05', output, re.IGNORECASE):
+        chip_type = "EM4305"
 
     return tag_id, chip_type
 
