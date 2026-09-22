@@ -29,7 +29,7 @@ Partea cu "hw tune" de la final nu este necesara!
 - Du-te pe pagina principala a proiectului de pe GitHub. [Pagina Principala](https://github.com/GigelHarbuz/PTag)
 - Apasa pe sageata de langa Code (buton verde) si apasa pe "Download Zip" (vezi poza)
 - 
-![poza tutorial](/poza01.png "Poza")
+![poza tutorial](/tutoriale/poza01.png)
 
 - Dupa ce s-a downloadat, copiaza "PTag.pyw" si folderul "Languages" si NU inchide Winrar (fisierele vor fi sterse din clipboard si nu vei putea da paste!)
 - Da paste la fisierele copiate in folderul creat pt. Proxmark.
