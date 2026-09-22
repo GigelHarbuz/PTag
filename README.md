@@ -4,7 +4,7 @@ O interfata nativa in Python pentru Proxmark3.
 ***English version of README and tutorials will be added in the near future. Use your browser's translate tool until then.***
 
 ## Screenshot
-~[screenshot din program](/tutoriale/poza02.png)
+![screenshot din program](/tutoriale/poza02.png)
 
 ## Ce poti face cu acest program?
 - copiere cartele chinezesti EM4100/EM4102 (folosite la interfoane Resel Genway Interada etc., cititoare stand-alone, hoteluri si mai multe) pe taguri ieftine T5577
